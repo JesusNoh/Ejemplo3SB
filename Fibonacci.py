@@ -11,5 +11,5 @@ for i in range(0,n):
     print (f"{z}",end=" ")
     x=y
     y=z
-print("")    
+print(" ")    
     
